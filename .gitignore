@@ -1,0 +1,12 @@
+*.settings
+
+settings/*
+
+target/*
+.classpath
+.factory
+.factorypath
+.project
+*.DS_store
+
+
